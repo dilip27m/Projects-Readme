@@ -18,7 +18,7 @@ By combining AI-powered attendance processing, task management, notifications, a
 
 ---
 
-# 🎥 Demo
+# Quick Links
 
 ### Live Website
 
@@ -27,6 +27,14 @@ https://shadowmark.vercel.app/
 ### 🎥 Demo Video
 
 [Watch Demo Video](https://drive.google.com/file/d/1zgqqntwhLy5jmdYDF6hPlTaEmPk_yJeW/view?usp=drivesdk)
+
+### Frontend Repository
+
+https://github.com/dilip27m/shadow-frontend
+
+### Backend Repository
+
+https://github.com/dilip27m/shadow-backend
 
 # 📸 Screenshots
 
@@ -47,19 +55,7 @@ https://shadowmark.vercel.app/
 ![Task Calendar](./images/taskcalender.jpeg)
 ![Attendance Calendar](./images/Calenderhistory.jpeg)
 
----
 
-# 🔗 Repositories
-
-### Frontend Repository
-
-https://github.com/dilip27m/shadow-frontend
-
-### Backend Repository
-
-https://github.com/dilip27m/shadow-backend
-
----
 
 # ❗ Problem Statement
 
