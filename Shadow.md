@@ -30,21 +30,22 @@ https://shadowmark.vercel.app/
 
 # 📸 Screenshots
 
-### Dashboard
+### Attendance Dashboard
 
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](./images/Attendance.jpeg)
 
 ### Attendance Management
 
-![Attendance](./screenshots/attendance.png)
+![Admin](./images/admin.jpeg)
 
 ### Announcements & Tasks
 
-![Tasks](./screenshots/tasks.png)
+![Tasks](./images/taskstab.jpeg)
 
 ### Calendar View
 
-![Calendar](./screenshots/calendar.png)
+![Task Calendar](./images/taskcalender.jpeg)
+![Attendance Calendar](./images/Calenderhistory.jpeg)
 
 ---
 
