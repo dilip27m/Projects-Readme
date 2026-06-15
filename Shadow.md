@@ -36,11 +36,11 @@ https://shadowmark.vercel.app/
 
 ### Attendance Management
 
-![Admin](./images/admin.jpeg)
+![Admin](./images/Admin.jpeg)
 
 ### Announcements & Tasks
 
-![Tasks](./images/taskstab.jpeg)
+![Tasks](./images/tasktab.jpeg)
 
 ### Calendar View
 
